@@ -7,7 +7,7 @@ import { getApiConfig } from "./Redux/Actions/HomeAction";
 
 import { getGenres } from "./Redux/ReduxSlice/HomeSlice";
 
-import Home from "./pages/Home/Home";
+import Home from "./pages/home/Home";
 import Detail from "./pages/details/Detail";
 import Explore from "./pages/explore/Explore";
 import SerachResult from "./pages/serachResult/SerachResult";
